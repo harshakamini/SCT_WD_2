@@ -13,6 +13,10 @@ It includes both a digital timer and a synchronized analog clock for precise tim
 
 ✅ Simple and modern UI with glowing effects
 
-🖼️ Preview
+📌 Future Improvements
 
-[Stopwatch Preview](tsk2.png))
+Add dark/light mode toggle
+
+Export lap times as CSV/JSON
+
+Mobile responsive enhancements
